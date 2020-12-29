@@ -1,7 +1,9 @@
 #Background
+
 This repository contains the backend code for the "Rebound" website which was created to help people who have experienced joblessness due to COVID-19. The models provide suggestions for an applicant in terms of specific job postings that are aligned with their skills and also provide the applicant with top industries that they are qualified for if they are looking to make a bigger change in their career. On the "Rebound" website, an applicant is able to upload their resume in pdf format as well as indicate the industry they are interested in finding job postings for. Given this input and the job postings we have locally, specific job postings and other industries will be suggested that they might also be interested in.
 
 #Setup
+
 Several python libraries are required in order to run the scripts in this repository.
 pip install can be used for the gensim, sklearn, csv and pypdf2 libraries/modules.
 If you are not sure which of these modules you already have, you can go ahead and run the scripts
